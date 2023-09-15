@@ -1,7 +1,7 @@
 # GVG Image Format: The next generation of vector graphics
 This repository is for the GPU Vector Graphics (GVG) image file format specification.
 
-Work-in-progress specification: https://github.com/Labrium/GVG/specDraft.md
+Work-in-progress specification: https://github.com/Labrium/GVG/blob/main/specDraft.md
 
 &nbsp;
 
@@ -13,7 +13,7 @@ Work-in-progress specification: https://github.com/Labrium/GVG/specDraft.md
 
 ## Projects Using GVG
 
- - [Hoog.io](https://github.com/CurbaiCode/Hoog.io/)
+ - [Hoog.io](https://github.com/CurbaiCode/Hoog.io)
 
 &nbsp;
 
