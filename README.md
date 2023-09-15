@@ -11,6 +11,12 @@ Work-in-progress specification: https://github.com/Labrium/GVG/specDraft.md
 
 &nbsp;
 
+## Projects Using GVG
+
+ - [Hoog.io](https://github.com/CurbaiCode/Hoog.io/)
+
+&nbsp;
+
 # License
 [GVG](https://github.com/Labrium/GVG) &copy; 2023 by [Labrium](https://github.com/Labrium) is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0).
 
